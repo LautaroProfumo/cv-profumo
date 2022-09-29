@@ -49,6 +49,18 @@ body
     border-radius: 50%;
     overflow: hidden;
 }
+.imgbox2
+{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("certificado.PNG");
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    align-items: center;
+}
 .profileText .imgbox img
 {
     position: absolute;
